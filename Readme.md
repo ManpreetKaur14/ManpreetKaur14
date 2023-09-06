@@ -1,26 +1,21 @@
-### Hi there 👋, my name is Manpreet Kaur
-#### A Passionate Frontend Developer & A Proud Cat Owner
-Currently working on a library based app in react and node, plus working on developing my technical skills.
 
-Skills:  JS / HTML / CSS/ REACT
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manpreet-kaur-1151a2194/) 
 
-- 🔭 I’m currently working on Web App 
-- 🌱 I’m currently learning Node JS, React JS, React Native 
-- 🤔 I’m looking for help with Backend and React 
-- 💬 Ask me about Java, Frontend 
-- 📫 How to reach me: manpreetkaur0699@gmail.com 
-- ⚡ Fun fact: Cats around can help you debug fast. 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ManpreetKaur14&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ManpreetKaur14&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManpreetKaur14&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ManpreetKaur14&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ManpreetKaur14)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/manpreet-kaur-1151a2194/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/preet_._1406/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](manpreetkaur0699)  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManpreetKaur14)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![](https://visitcount.itsvg.in/api?id=ManpreetKaur14&icon=0&color=1)](https://visitcount.itsvg.in)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManpreetKaur14&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ManpreetKaur14)  
-
-![GitHub metrics](https://metrics.lecoq.io/ManpreetKaur14)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ManpreetKaur14)  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
