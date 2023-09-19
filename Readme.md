@@ -1,4 +1,4 @@
-![Cover Image](https://64.media.tumblr.com/ece89fcb5b72631cf76c1f517f9b9098/9fa2d86d31636773-d7/s500x750/ac9a600be2e7626f502e282d42cc7aa6816c6b06.gifv)
+![Cover Image](https://nextshark.b-cdn.net/wp-content/uploads/2018/01/007.gif?width=1024&auto_optimize=medium)
 <h1 align="center">Hi 👋, I'm Manpreet Kaur</h1>
 <h3 align="center">Started with Data Analytics and DSA</h3>
 
