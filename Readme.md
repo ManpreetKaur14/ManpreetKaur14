@@ -20,8 +20,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://twitter.com/@designsbybingo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@designsbybingo" height="30" width="40" /></a>
+
 <a href="https://www.linkedin.com/in/manpreet-kaur-1151a2194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manpreet-kaur-1151a2194/" height="30" width="40" /></a>
+</p>
+
+<a href="https://dribbble.com/Preet0699" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fdribble-logo%2F154493&psig=AOvVaw2ZIWUH9mOCChGL65dHfIjk&ust=1710622337191000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCQ3_eS94QDFQAAAAAdAAAAABAE" alt="https://dribbble.com/Preet0699" height="30" width="40" /></a>
+</p>
+
+<a href="https://www.behance.net/manpreetkaur31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.behance.net/manpreetkaur31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
