@@ -1,20 +1,20 @@
 ![Cover Image](https://nextshark.b-cdn.net/wp-content/uploads/2018/01/007.gif?width=1024&auto_optimize=medium)
 <h1 align="center">Hi 👋, I'm Manpreet Kaur</h1>
-<h3 align="center">Started with Data Analytics and DSA</h3>
+<h3 align="center">Frontend Developer & Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreetkaur14&label=Profile%20views&color=0e75b6&style=flat" alt="manpreetkaur14" /> </p>
 
-- 🔭 I’m currently working on **NumPy and Pandas**
+- 🔭 I’m currently learning a bit of **backend stuff**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently working on **Some Cool Projects**
 
-- 👯 I’m looking to collaborate on **data related projects**
+- 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 🤝 I’m looking for help with **python and statistics**
+- 🤝 I’m looking for help with **Node JS**
 
 - 💬 Ask me about **Graphic Designing**
 
-- 📫 How to reach me **manpreetkaur0699@gmail.com**
+- 📫 How to reach me **cnnect@manpreetkaur.me**
 
 - ⚡ Fun fact **Cats can dream**
 
