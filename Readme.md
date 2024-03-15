@@ -4,19 +4,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manpreetkaur14&label=Profile%20views&color=0e75b6&style=flat" alt="manpreetkaur14" /> </p>
 
-- 🔭 I’m currently learning a bit of **backend stuff**
+- 🔭 I’m currently learning a bit of **Backend stuff.**
 
-- 🌱 I’m currently working on **Some Cool Projects**
+- 🌱 I’m currently working on **Some Cool Projects.**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Frontend Projects.**
 
-- 🤝 I’m looking for help with **Node JS**
+- 🤝 I’m looking for help with **Node JS.**
 
-- 💬 Ask me about **Graphic Designing**
+- 💬 Ask me about **Graphic Designing.**
 
-- 📫 How to reach me **cnnect@manpreetkaur.me**
+- 📫 How to reach me **connect@manpreetkaur.me .**
 
-- ⚡ Fun fact **Cats can dream**
+- ⚡ Fun fact **Cats can dream.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
